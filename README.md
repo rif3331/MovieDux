@@ -6,8 +6,6 @@ MovieDux is a web-based movie management application built using modern web tech
 
 React.js
 
-Redux
-
 HTML
 
 CSS
